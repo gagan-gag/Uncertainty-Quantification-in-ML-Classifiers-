@@ -193,8 +193,6 @@ To reproduce from scratch: delete the `data/` folder and re-run notebooks 01 →
 
 Information Science Engineering | Akash Institute of Engineering and Technology, Bengaluru
 
-Graduating 2027
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/gaganr-15948b393)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/gagan-gag)
 
