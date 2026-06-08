@@ -171,7 +171,7 @@ Nine PNG files are saved to your working directory:
 
 To reproduce from scratch: delete the `data/` folder and re-run notebooks 01 → 04.
 
----
+--- 
 
 ## References
 
