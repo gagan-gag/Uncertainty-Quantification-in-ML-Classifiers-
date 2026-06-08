@@ -186,3 +186,18 @@ To reproduce from scratch: delete the `data/` folder and re-run notebooks 01 →
 ## Tech Stack
 
 `Python 3.10+` · `scikit-learn ≥ 1.4` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `SciPy` · `Jupyter`
+
+## Author
+
+**Gagan R**
+Information Science Engineering | Akash Institute of Engineering and Technology, Bengaluru
+Graduating 2027
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/gaganr-15948b393)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/gagan-gag)
+
+---
+
+## License
+
+This project is licensed under the MIT License — feel free to use, adapt, and build on it.
