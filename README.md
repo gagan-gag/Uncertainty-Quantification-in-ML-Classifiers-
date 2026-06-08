@@ -190,6 +190,7 @@ To reproduce from scratch: delete the `data/` folder and re-run notebooks 01 →
 ## Author
 
 **Gagan R**
+
 Information Science Engineering | Akash Institute of Engineering and Technology, Bengaluru
 Graduating 2027
 
