@@ -38,23 +38,18 @@ it at the median to create a low / high progression classification task.
 ## Project Structure
 
 ```
-calibration_study/
+.
+├── notebook_01_setup_eda.ipynb
+├── notebook_02_training_raw_calibration.ipynb
+├── notebook_03_posthoc_calibration.ipynb
+├── notebook_04_final_report.ipynb
 │
-├── notebook_01_setup_eda.ipynb               # EDA + creates data/splits.pkl
-├── notebook_02_training_raw_calibration.ipynb  # Train 5 classifiers, raw ECE/MCE
-├── notebook_03_posthoc_calibration.ipynb     # Platt Scaling & Isotonic Regression
-├── notebook_04_final_report.ipynb            # Effect sizes, ablations, summary
+├── open_report.ipynb
+├── calibration_report.html
 │
 ├── README.md
-├── requirements.txt
-│
-└── data/                    ← created automatically by Notebook 1
-    ├── splits.pkl           ← train/calib/test arrays for all 3 datasets
-    ├── meta.pkl             ← class names
-    ├── trained_models.pkl   ← fitted sklearn objects
-    ├── raw_probs.pkl        ← raw predicted probabilities
-    ├── raw_metrics.pkl      ← ECE/MCE/Brier before calibration
-    └── calib_results.pkl    ← ECE/MCE/Brier after calibration
+└── requirements.txt
+
 ```
 
 The `data/` folder and every `.pkl` file inside it are **generated automatically**.
